@@ -1,0 +1,7 @@
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\bin\Debug\P3_2_714220039.exe.config
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\bin\Debug\P3_2_714220039.exe
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\bin\Debug\P3_2_714220039.pdb
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\obj\Debug\P3_2_714220039.csproj.AssemblyReference.cache
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\obj\Debug\P3_2_714220039.csproj.CoreCompileInputs.cache
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\obj\Debug\P3_2_714220039.exe
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\P3_2_714220039\obj\Debug\P3_2_714220039.pdb
