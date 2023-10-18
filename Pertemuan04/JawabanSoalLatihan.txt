@@ -1,0 +1,13 @@
+BAGIAN 1
+Jawaban Untuk Nomor 14
+Terjadi error karena variable myType memiliki accsess modifier nya Protected sehingga tidak bisa di akses di Class lain.
+Jawaban Untuk Nomor 19
+Terjadi Null karena tidak ada nilai yang diatur pada properti tersebut dalam konstruktor "public Product_123456789(){}".
+Jawaban Untuk Nomor 24
+Output yang dihasil kan adalah kata "DVD" karena properti MyType dari objek myProduct di isi dengan nilai "DVD" pada baris myProduct.MyType = "DVD"; .
+
+BAGIAN 2
+Jawaban Untuk Nomor 8
+Title dari buku tidak muncul karena ada kesalahan saat memanggil konstruktor kelas 'Book_714220039'. Di dalam konstruktor 'Book_714220039' tidak memanggil konstruktor kelas induk ('Product_714220039') yang memiliki 2 parameter (type dan title) menggunakan kata kunci 'base'.
+Jawaban Untuk Nomor 12
+Title dari buku sudah muncul karena di dalam konstruktor 'Book_714220039' sudah dipanggil konstruktor kelas induk ('Product_714220039') yang memiliki 2 parameter (type dan title) menggunakan kata kunci 'base'.

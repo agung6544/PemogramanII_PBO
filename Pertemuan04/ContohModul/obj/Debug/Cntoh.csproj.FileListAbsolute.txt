@@ -1,0 +1,7 @@
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\bin\Debug\Cntoh.exe.config
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\bin\Debug\Cntoh.exe
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\bin\Debug\Cntoh.pdb
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\obj\Debug\Cntoh.csproj.AssemblyReference.cache
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\obj\Debug\Cntoh.csproj.CoreCompileInputs.cache
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\obj\Debug\Cntoh.exe
+C:\PemogramanII_PBO\Pertemuan03\Praktikum\Cntoh\obj\Debug\Cntoh.pdb
