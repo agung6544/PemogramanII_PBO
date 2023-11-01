@@ -45,7 +45,7 @@ namespace P5_4_714220039
                 }
                 else
                 {
-                    MessageBox.Show("Nama harus diisi.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Nama harus diisi.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return; // Menghentikan eksekusi jika nama kosong
                 }
 
@@ -56,7 +56,7 @@ namespace P5_4_714220039
                 }
                 else
                 {
-                    MessageBox.Show("Pilih jenis kelamin.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Pilih jenis kelamin.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return; // Menghentikan eksekusi jika jenis kelamin tidak dipilih
                 }
 
@@ -67,7 +67,7 @@ namespace P5_4_714220039
                 }
                 else
                 {
-                    MessageBox.Show("Pilih Tanggal Lahir.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Pilih Tanggal Lahir.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return; // Menghentikan eksekusi jika tanggal lahir tidak dipilih
                 }
 
@@ -92,7 +92,7 @@ namespace P5_4_714220039
                 }
                 else
                 {
-                    MessageBox.Show("Pilih setidaknya satu kelas.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Pilih setidaknya satu kelas.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return; // Menghentikan eksekusi jika tidak ada kelas yang dipilih
                 }
 
@@ -104,7 +104,7 @@ namespace P5_4_714220039
                 }
                 else
                 {
-                    MessageBox.Show("Pilih jadwal.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Pilih jadwal.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return; // Menghentikan eksekusi jika jadwal tidak dipilih
                 }
                 // Menampilkan output dalam MessageBox
