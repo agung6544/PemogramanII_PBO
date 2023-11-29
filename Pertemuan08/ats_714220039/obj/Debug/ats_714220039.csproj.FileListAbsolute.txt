@@ -1,0 +1,10 @@
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\bin\Debug\ats_714220039.exe.config
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\bin\Debug\ats_714220039.exe
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\bin\Debug\ats_714220039.pdb
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.csproj.AssemblyReference.cache
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.Form1.resources
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.Properties.Resources.resources
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.csproj.GenerateResource.cache
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.csproj.CoreCompileInputs.cache
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.exe
+C:\Users\AGUNG NAINGGOLAN\OneDrive\Documents\ATS_PBO\ats_714220039\obj\Debug\ats_714220039.pdb
