@@ -46,7 +46,7 @@
             this.WindowMenuItem});
             this.MdiMenu.Location = new System.Drawing.Point(0, 0);
             this.MdiMenu.Name = "MdiMenu";
-            this.MdiMenu.Size = new System.Drawing.Size(800, 30);
+            this.MdiMenu.Size = new System.Drawing.Size(800, 28);
             this.MdiMenu.TabIndex = 0;
             this.MdiMenu.Text = "menuStrip1";
             // 
@@ -85,14 +85,14 @@
             // WindowCascadeMenuItem
             // 
             this.WindowCascadeMenuItem.Name = "WindowCascadeMenuItem";
-            this.WindowCascadeMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.WindowCascadeMenuItem.Size = new System.Drawing.Size(147, 26);
             this.WindowCascadeMenuItem.Text = "&Cascade";
             this.WindowCascadeMenuItem.Click += new System.EventHandler(this.WindowCascadeMenuItem_Click);
             // 
             // WindowTileMenuItem
             // 
             this.WindowTileMenuItem.Name = "WindowTileMenuItem";
-            this.WindowTileMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.WindowTileMenuItem.Size = new System.Drawing.Size(147, 26);
             this.WindowTileMenuItem.Text = "&Tile";
             this.WindowTileMenuItem.Click += new System.EventHandler(this.WindowTileMenuItem_Click);
             // 
